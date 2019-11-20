@@ -34,10 +34,6 @@ p {
   margin: 0 auto;
 }
 
-section {
-  display: flex;
-}
-
 div {
   display: inline-block;
 }
@@ -90,12 +86,20 @@ h2 {
     vertical-align: middle;
   }
 
+  section {
+    display: flex;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
     font-size: 130%;
+  }
+
+  section {
+    display: flex;
   }
 
 }
