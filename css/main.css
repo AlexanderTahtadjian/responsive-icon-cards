@@ -113,4 +113,16 @@ section {
     display: flex;
   }
 
+  .card-icon {
+    display: inline-block;
+    width: 15%;
+    vertical-align: middle;
+  }
+
+  .card-content {
+    display: inline-block;
+    width: 75%;
+    vertical-align: middle;
+  }
+
 }
