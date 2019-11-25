@@ -26,6 +26,10 @@ html {
   font-size: 1.5rem;
 }
 
+.card-body p {
+  font-size: 1.5rem;
+}
+
 .card-img img {
   width: 50px;
   margin: .75em;
