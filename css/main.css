@@ -20,6 +20,8 @@ html {
 .cards {
   display: block;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .card-body h2 {
