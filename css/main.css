@@ -37,9 +37,8 @@ html {
   padding-bottom: 1.3rem;
 }
 
-.card-icon {
-  width: 100%;
-  text-align: center;
+.card-content {
+  margin-bottom: 1.3rem;
 }
 
 p {
